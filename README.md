@@ -1,4 +1,4 @@
-# linkedin_webscraping
+# LinkedIn Publici Profile Webscraping using Python and Selenium
 Code to scrape LinkedIn Public profiles
 
 The code scrapes 
